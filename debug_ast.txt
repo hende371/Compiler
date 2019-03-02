@@ -1,0 +1,7 @@
+Statements type=None
+  Statements type=None
+  Assign type=val
+    VariableDeclarationNode type=val a
+    ValLiteral type=val 4
+  Print type=None
+    VariableUsageNode type=val a
