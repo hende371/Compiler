@@ -1,5 +1,1 @@
-Name: Tommie Henderson
-
-Resources: My previous project  
-
-Comments: None
+A compiler used to read a language that is similar to Python. 
