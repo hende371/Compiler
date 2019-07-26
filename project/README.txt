@@ -1,1 +1,1 @@
-A compiler used to read a language that is similar to Python. 
+A compiler used to process a language that is similar to Python. 
